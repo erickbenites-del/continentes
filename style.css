@@ -1,6 +1,6 @@
 body{
-    color: rgb(7, 54, 51);
-    background: rgb(30, 124, 148);
+    color: lightgreen;
+    background: lightcoral;
     margin: 0px;
     font-family: "Playwrite Deutschland Grundschrift Guides", sans-serif;
 }
@@ -18,6 +18,7 @@ section{
     padding-top: 80px;
     display: flex;
     justify-content: center; 
+    font-size: 25px;
 }
 
 .chamada-texto{
