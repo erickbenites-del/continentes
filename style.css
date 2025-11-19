@@ -3,6 +3,7 @@ body{
     background: lightcoral;
     margin: 0px;
     font-family: "Playwrite Deutschland Grundschrift Guides", sans-serif;
+    margin-bottom: 100px;
 }
 
 header{
@@ -38,4 +39,16 @@ p{
 .categoria{
      padding-left: 20px;
      padding-right: 20px;
+}
+
+.categoria-videos img{
+     opacity: 0.5;
+     height: 200px;
+}
+.categoria-videos img:hover{
+     opacity: 1.0;
+     border: 1px solid skyblue;
+}
+.categoria h2{
+    color: blue;
 }
