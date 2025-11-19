@@ -1,6 +1,6 @@
 body{
-    color: lightgreen;
-    background: lightcoral;
+    color: rgb(9, 62, 87);
+    background: rgb(56, 168, 196);
     margin: 0px;
     font-family: "Playwrite Deutschland Grundschrift Guides", sans-serif;
     margin-bottom: 100px;
@@ -15,7 +15,7 @@ header{
 }
 
 section{
-    background: rgb(77, 196, 160);
+    background: rgb(58, 9, 65);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
