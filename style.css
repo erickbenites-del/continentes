@@ -9,7 +9,7 @@ header{
     border-bottom: solid 5px rgb(28, 95, 156);
     padding: 20px;
     font-size: 32px ;
-    color: rgb(173, 165, 218);
+    color: rgb(31, 118, 201);
 }
 
 .chamada{ 
@@ -51,5 +51,5 @@ header{
    border:1px solid rgb(22, 80, 167);
  }
   .categoria h2{
- color: rgb(20, 161, 185)
+ color: rgba(110, 11, 192, 0.397)
  }
